@@ -1,4 +1,5 @@
-- Hello, everyone. My name's Kevin, I'm 20 and in the starting of the Technology carreer.
-- I'm currently looking for interntship oportunitties. I know a little of PL/SQL because is the language that I use in work.
-- I'm learning C language and I wanted to learn C# and C++ after that. 
-- I don't know yet what specifically what I wanted to do for jobs, so I'm open to trying.
+- Hello, everyone. My name's Kevin, I'm 20 and in the starting of the Technology career.
+- I am Bralizian, but my english is between B1 and C1.
+- I'm currently looking for interntship opportunities. I know a little of PL/SQL because it is the language that I use in work.
+- I'm learning C language and I wanted to learn C# and C++ after that.
+- I don't know yet specifically what I want to do for jobs, so I'm open to trying.
